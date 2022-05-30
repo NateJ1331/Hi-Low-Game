@@ -1,0 +1,15 @@
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\bin\Debug\net6.0\Hi-Low-Game.exe
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\bin\Debug\net6.0\Hi-Low-Game.deps.json
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\bin\Debug\net6.0\Hi-Low-Game.runtimeconfig.json
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\bin\Debug\net6.0\Hi-Low-Game.dll
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\bin\Debug\net6.0\Hi-Low-Game.pdb
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\obj\Debug\net6.0\Hi-Low-Game.csproj.AssemblyReference.cache
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\obj\Debug\net6.0\Hi-Low-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\obj\Debug\net6.0\Hi-Low-Game.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\obj\Debug\net6.0\Hi-Low-Game.AssemblyInfo.cs
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\obj\Debug\net6.0\Hi-Low-Game.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\obj\Debug\net6.0\Hi-Low-Game.dll
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\obj\Debug\net6.0\refint\Hi-Low-Game.dll
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\obj\Debug\net6.0\Hi-Low-Game.pdb
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\obj\Debug\net6.0\Hi-Low-Game.genruntimeconfig.cache
+C:\Users\natha\Desktop\C# stuff\Hi-Low-Game\obj\Debug\net6.0\ref\Hi-Low-Game.dll
